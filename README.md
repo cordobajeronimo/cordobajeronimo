@@ -35,7 +35,6 @@ Proyectos formativos · SENA, Colombia · Formación actual
 
 Sistema de Gestión de Recursos Institucionales
 
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
 ✅ Centraliza la información de los recursos institucionales.
 ✅ Módulos de préstamos, devoluciones, mantenimiento, usuarios, proveedores y reportes.
@@ -44,15 +43,9 @@ Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
 Lenguajes y tecnologías web
 
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
-
 Bases de datos
 
-Mostrar imagen
-
 Herramientas y entorno
-
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 
 Área	Detalle
 🌐 Web	Interfaces con HTML, CSS y Bootstrap; fundamentos de PHP con conexión a bases de datos; fundamentos de React y Flask
