@@ -4,11 +4,6 @@
 
 <br/>
 
-Mostrar imagen Mostrar imagen Mostrar imagen
-
-Gmail WhatsApp LinkedIn GitHub GitLab YouTube
-
-</div>
 👨‍💻 Perfil profesional
 
 Aprendiz de Análisis y Desarrollo de Software en el SENA, con interés en la programación, el desarrollo web y la creación de soluciones tecnológicas para necesidades reales. He participado en proyectos formativos como RecurSoft, un sistema para gestionar recursos institucionales.
